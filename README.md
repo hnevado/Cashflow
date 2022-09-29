@@ -25,8 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Images APP
 
-<p><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow1.png"></p>
-<p><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow2.png"></p>
-<p><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow3.png"></p>
-<p><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow4.png"></p>
-<p><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow5.png"></p>
+<p style="text-align:center"><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow1.png" style="border:1px solid black"></p>
+<p style="text-align:center"><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow2.png" style="border:1px solid black"></p>
+<p style="text-align:center"><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow3.png" style="border:1px solid black"></p>
+<p style="text-align:center"><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow4.png" style="border:1px solid black"></p>
+<p style="text-align:center"><img src="https://github.com/hnevado/Cashflow/blob/master/public/img/cashflow5.png" style="border:1px solid black"></p>
